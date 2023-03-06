@@ -6,7 +6,11 @@
 // - For each item in the array, make a string for each step in the method from
 // NOTE: Copy and paste the text from the website below, don't type it all out!
 // https://nadialim.com/gooey-campfire-chocolate-and-marshmallow-bananas/
-
+let recipeMethod = ['Use a sharp knife to cut a long split along the inner curve of each banana, cutting through the skin (and some of the flesh), but not right through to the other side.', 
+'Gently push banana from each end to open up the middle so you end up with a long, wide split to place your filling into. Repeat with all bananas.',
+'Stuff pieces of marshmallow and chocolate into the splits until full.',
+'Place each banana on a piece of baking paper laid on top of foil and wrap well in both paper and foil, folding the edges firmly together. Place on hot coals or on the barbecue for about 15 minutes, turning occasionally, until the bananas are really soft.',
+'Unwrap the bananas – careful, they’ll be hot. Sprinkle over chopped nuts or coconut if desired, and serve with a spoon to scoop out the gooey insides. These are nice served with a little yoghurt on the side, if you like.'];
 /**
  * Part B: Bank Transactions
  */
