@@ -35,16 +35,16 @@ const raceResults = [
 ];
 
 // Initialise raceWinner to be the first item from raceResults
-
+let raceWinner = 'Savvy Nine';
 // Initialise raceSecond to be the second item from raceResults
-
+let raceSecond = 'Insayshable';
 // Initialise raceThird to be the third item from raceResults
-
+let raceThird = 'Flying Quest';
 // Initialise restOfResults to be an array
 // - The first item of the array, should be the fourth item from raceResults
 // - The second item of the array, should be the fifth item from raceResults
 // - The third item of the array, should be the sixth item from raceResults
-
+let restOfResults = ['Righteous Doctrine', 'Lakeshore Eagle', 'Sunshine Warrior']
 /**
  * Part D: Shopping Cart
  */
