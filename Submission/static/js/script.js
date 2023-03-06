@@ -20,7 +20,7 @@ let recipeMethod = ['Use a sharp knife to cut a long split along the inner curve
 // - If you add and subtract all the numbers together, the final sum should be 300
 // - The items should contain both positive and negative numbers
 // - NOTE: Positive numbers do not need a + in front of them
-
+let bankTransactions = [400, -10, -10, -10, -70];
 /**
  * Part C: Race Results
  */
