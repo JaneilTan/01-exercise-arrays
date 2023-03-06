@@ -44,7 +44,7 @@ let raceThird = 'Flying Quest';
 // - The first item of the array, should be the fourth item from raceResults
 // - The second item of the array, should be the fifth item from raceResults
 // - The third item of the array, should be the sixth item from raceResults
-let restOfResults = ['Righteous Doctrine', 'Lakeshore Eagle', 'Sunshine Warrior']
+let restOfResults = ['Righteous Doctrine', 'Lakeshore Eagle', 'Sunshine Warrior'];
 /**
  * Part D: Shopping Cart
  */
@@ -56,3 +56,4 @@ let restOfResults = ['Righteous Doctrine', 'Lakeshore Eagle', 'Sunshine Warrior'
 // Assign the second item to be named "Block of chocolate" with a quantity of 2
 // Assign the third item to be named "Coffee" with a quantity of 1
 // Assign the fourth item to be named "Frozen Pizza" with a quantity of 1
+let cartItems = [['Bottle of wine', 6], ['Block of chocolate', 2], ['Coffee', 1], ['Frozen Pizza', 1]];
